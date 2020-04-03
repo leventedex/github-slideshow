@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Make sure you wash your hands.
 Use the left arrow to go back!
